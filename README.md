@@ -1,2 +1,2 @@
 # project
-my fist assinment
+My First Assignment
